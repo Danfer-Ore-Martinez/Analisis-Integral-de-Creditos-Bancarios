@@ -1,0 +1,9 @@
+producto_id,nombre_producto,tipo_credito,tasa_nom_min,tasa_nom_max,plazo_min_meses,plazo_max_meses,monto_minimo,monto_maximo,requiere_garantia,moneda
+1, crédito personal libre disponibilidad,Personal,18.0,36.0,6,60,1000,50000.0,False,S/.
+2,Crédito Hipotecario Vivienda,Hipotecario,7.5,11.0,60,360,50000,1000000.0,True,PEN
+3,Crédito Vehicular, VehIcuLar,-2.5,18.0,12,72,10000,200000.0,yes,PEN
+4,Crédito MYPE Capital de Trabajo,Microempresa,20.0,48.0,6,48,2000,100000.0,False,PEN 
+5,CrÉdItO De cOnSuMo ,Consumo,24.0,42.0,3,36,500,20000.0,False,PEN
+6,CRÉDITO EDUCATIVO,personal,12.0,24.0,6,84,2000,,No,Sol
+7, crédito hipotecario usd,HIPOTECARIO,5.5,250.0,60,360,20000,500000.0,True,USD
+8,Crédito Agropecuario,microempresa ,15.0,30.0,3,36,1000,50000.0,false,PEN 
