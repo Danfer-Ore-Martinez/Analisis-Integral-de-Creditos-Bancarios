@@ -1,0 +1,27 @@
+sucursal_id,codigo_sucursal,nombre_sucursal,tipo_sucursal,ciudad,departamento,region,zona,fecha_apertura,estado_sucursal
+1,SUC0001,Oficina Principal Lima ,OFICINA PRINCIPAL,  San Juan de Lurigancho,Lima,Lima y Callao,Urbano,2005-07-24,Activa
+2,SUC0002,Agencia Santiago de Surco 1,Agencia,Santiago de Surco,Lima,Lima y Callao,Urbano,2010-01-03,ACTIVA
+3,SUC0003,Agencia Miraflores 2,Punto de Atención, MiRaFlOrEs,Lima,Lima y Callao,Urbano,2007-04-20,Activa
+4,SUC0004,Agencia Los Olivos 3,Agencia,Los Olivos, Lima,Lima y Callao,urbano,2014/06/19,Activa
+5,SUC0005,Agencia Lima 4,Agencia,Lima,Lima,Lima y Callao,Urbano,2007/02/07,Activa
+6,SUC0006,OfIcInA PrInCiPaL ArEqUiPa,Oficina Principal,Cayma,Arequipa,Sur ,urbano,2010-03-21,ACTIVA
+7,SUC0007,Agencia Arequipa 1,Punto de Atención,Arequipa,Arequipa,Sur,Urbano,2009/06/17,activa
+8,SUC0008,Agencia Yanahuara 2,Agencia,Yanahuara,Arequipa,Sur,Urbano,28-01-2015,Activa
+9,SUC0009,oficina principal la libertad,Oficina Principal,La Esperanza,La Libertad,Norte,Urbano,29/03/2011,activa
+10,SUC0010,Agencia Trujillo 1,Agencia,Trujillo,La Libertad,Norte,Urbano,25/06/2014,Activa
+11,SUC0011, Agencia Víctor Larco Herrera 2,Oficina Especial, VícTor laRco heRreRa,la libertad,Norte,Urbano,2008/06/27,Activa
+12,SUC0012,Oficina Principal Lambayeque,Oficina Principal,Chiclayo,Lambayeque,Norte,Urbano,20-07-2012,Activa
+13,SUC0013,Agencia Chiclayo 1,Agencia , Chiclayo,Lambayeque,Norte,Urbano,2013/07/10,Activa
+14,,Oficina Principal Piura,Oficina Principal,Piura,Piura,Norte,Urbano,19-01-2013,Activa
+15,SUC0015,Agencia Sullana 1,Punto de Atención,Sullana,Piura,Norte,URBANO,2010/12/07,Activa
+16,SUC0016,Oficina Principal Cusco,Oficina Principal,Cusco,Cusco,Sur,Urbano,22/04/2015,Activa
+17,SUC0017,Agencia Wanchaq 1,AGENCIA,  WaNcHaQ,Cusco,Sur,Urbano,28/06/2013,Activa
+18,SUC0018,Oficina Principal Junín,Oficina Principal,Huancayo,Junín,Centro,Urbano,30/07/2011,Activa
+19,SUC0019,Agencia El Tambo 1,Punto de Atención,El Tambo,  Junín,Centro,Urbano,2013-02-10,Activa
+20,SUC0020,Oficina Principal Ica,OFICINA PRINCIPAL,Pisco,  Ica, SuR,Urbano,2009/04/25,Activa
+21,,Oficina Principal Ancash,Oficina Principal,Chimbote,AnCaSh,Centro,Urbano,2006-11-01,Activa
+22,SUC0022,Oficina Principal Loreto,Oficina Principal, IQUITOS,Loreto,Oriente,Selva,29-06-2011,Activa
+23,SUC0023,Oficina Principal San Martín,Oficina Principal,Tarapoto,San Martín,Oriente,Selva,2010/03/23,Activa 
+24,SUC0024,Oficina Principal Cajamarca,oficina principal,CAJAMARCA,Cajamarca,Norte,Urbano,2013-07-11,Activa
+21,,Oficina Principal Ancash,Oficina Principal,Chimbote,AnCaSh,Centro,Urbano,2006-11-01,Activa
+20,SUC0020,Oficina Principal Ica,OFICINA PRINCIPAL,Pisco,  Ica, SuR,Urbano,2009-04-25,Activa
