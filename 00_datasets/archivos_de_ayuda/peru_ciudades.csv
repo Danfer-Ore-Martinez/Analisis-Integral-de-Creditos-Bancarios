@@ -1,0 +1,238 @@
+ciudad,departamento,region
+Tumbes,Tumbes,Norte
+Zarumilla,Tumbes,Norte
+Zorritos,Tumbes,Norte
+Piura,Piura,Norte
+Sullana,Piura,Norte
+Ayabaca,Piura,Norte
+Huancabamba,Piura,Norte
+Chulucanas,Piura,Norte
+Paita,Piura,Norte
+Talara,Piura,Norte
+Sechura,Piura,Norte
+Chiclayo,Lambayeque,Norte
+Ferreñafe,Lambayeque,Norte
+Lambayeque,Lambayeque,Norte
+Trujillo,La Libertad,Norte
+Víctor Larco Herrera,La Libertad,Norte
+La Esperanza,La Libertad,Norte
+Ascope,La Libertad,Norte
+Bolívar,La Libertad,Norte
+Chepén,La Libertad,Norte
+Cascas,La Libertad,Norte
+Julcán,La Libertad,Norte
+Otuzco,La Libertad,Norte
+San Pedro de Lloc,La Libertad,Norte
+Tayabamba,La Libertad,Norte
+Huamachuco,La Libertad,Norte
+Santiago de Chuco,La Libertad,Norte
+Virú,La Libertad,Norte
+Cajamarca,Cajamarca,Norte
+Cajabamba,Cajamarca,Norte
+Celendín,Cajamarca,Norte
+Chota,Cajamarca,Norte
+Contumazá,Cajamarca,Norte
+Cutervo,Cajamarca,Norte
+Bambamarca,Cajamarca,Norte
+Jaén,Cajamarca,Norte
+San Ignacio,Cajamarca,Norte
+Pedro Gálvez,Cajamarca,Norte
+San Miguel,Cajamarca,Norte
+San Pablo,Cajamarca,Norte
+Santa Cruz,Cajamarca,Norte
+Huaraz,Áncash,Centro
+Chimbote,Áncash,Centro
+Nuevo Chimbote,Áncash,Centro
+Aija,Áncash,Centro
+Llamellín,Áncash,Centro
+Chacas,Áncash,Centro
+Chiquián,Áncash,Centro
+Carhuaz,Áncash,Centro
+San Luis,Áncash,Centro
+Casma,Áncash,Centro
+Corongo,Áncash,Centro
+Huari,Áncash,Centro
+Huarmey,Áncash,Centro
+Caraz,Áncash,Centro
+Piscobamba,Áncash,Centro
+Ocros,Áncash,Centro
+Cabana,Áncash,Centro
+Pomabamba,Áncash,Centro
+Recuay,Áncash,Centro
+Sihuas,Áncash,Centro
+Yungay,Áncash,Centro
+Huancayo,Junín,Centro
+El Tambo,Junín,Centro
+La Merced,Junín,Centro
+Chupaca,Junín,Centro
+Concepción,Junín,Centro
+Jauja,Junín,Centro
+Junín,Junín,Centro
+Satipo,Junín,Centro
+Tarma,Junín,Centro
+La Oroya,Junín,Centro
+Cerro de Pasco,Pasco,Centro
+Yanahuanca,Pasco,Centro
+Oxapampa,Pasco,Centro
+Huánuco,Huánuco,Centro
+Ambo,Huánuco,Centro
+La Unión,Huánuco,Centro
+Huacaybamba,Huánuco,Centro
+Llata,Huánuco,Centro
+Tingo María,Huánuco,Centro
+Huacrachuco,Huánuco,Centro
+Panao,Huánuco,Centro
+Puerto Inca,Huánuco,Centro
+Jesús,Huánuco,Centro
+Chavinillo,Huánuco,Centro
+Huancavelica,Huancavelica,Centro
+Acobamba,Huancavelica,Centro
+Lircay,Huancavelica,Centro
+Castrovirreyna,Huancavelica,Centro
+Churcampa,Huancavelica,Centro
+Huaytará,Huancavelica,Centro
+Pampas,Huancavelica,Centro
+Ayacucho,Ayacucho,Centro
+Cangallo,Ayacucho,Centro
+Sacsamarca,Ayacucho,Centro
+Huanta,Ayacucho,Centro
+San Miguel,Ayacucho,Centro
+Puquio,Ayacucho,Centro
+Coracora,Ayacucho,Centro
+Pausa,Ayacucho,Centro
+Querobamba,Ayacucho,Centro
+Huancapi,Ayacucho,Centro
+Vilcashuamán,Ayacucho,Centro
+Lima,Lima,Lima y Callao
+Miraflores,Lima,Lima y Callao
+San Juan de Lurigancho,Lima,Lima y Callao
+Los Olivos,Lima,Lima y Callao
+Santiago de Surco,Lima,Lima y Callao
+San Martín de Porres,Lima,Lima y Callao
+Comas,Lima,Lima y Callao
+Villa El Salvador,Lima,Lima y Callao
+Ate,Lima,Lima y Callao
+Chorrillos,Lima,Lima y Callao
+La Molina,Lima,Lima y Callao
+Breña,Lima,Lima y Callao
+San Borja,Lima,Lima y Callao
+Jesús María,Lima,Lima y Callao
+Barranco,Lima,Lima y Callao
+La Victoria,Lima,Lima y Callao
+Rímac,Lima,Lima y Callao
+Surquillo,Lima,Lima y Callao
+Magdalena del Mar,Lima,Lima y Callao
+Pueblo Libre,Lima,Lima y Callao
+San Miguel,Lima,Lima y Callao
+Lurigancho,Lima,Lima y Callao
+Villa María del Triunfo,Lima,Lima y Callao
+San Juan de Miraflores,Lima,Lima y Callao
+Independencia,Lima,Lima y Callao
+El Agustino,Lima,Lima y Callao
+Lince,Lima,Lima y Callao
+Barranca,Lima,Lima y Callao
+Huaral,Lima,Lima y Callao
+Huacho,Lima,Lima y Callao
+Matucana,Lima,Lima y Callao
+San Vicente de Cañete,Lima,Lima y Callao
+Cajatambo,Lima,Lima y Callao
+Canta,Lima,Lima y Callao
+Oyón,Lima,Lima y Callao
+Yauyos,Lima,Lima y Callao
+Callao,Callao,Lima y Callao
+Bellavista,Callao,Lima y Callao
+La Perla,Callao,Lima y Callao
+La Punta,Callao,Lima y Callao
+Carmen de la Legua,Callao,Lima y Callao
+Ventanilla,Callao,Lima y Callao
+Mi Perú,Callao,Lima y Callao
+Ica,Ica,Sur
+Chincha Alta,Ica,Sur
+Nasca,Ica,Sur
+Palpa,Ica,Sur
+Pisco,Ica,Sur
+Arequipa,Arequipa,Sur
+Yanahuara,Arequipa,Sur
+Cayma,Arequipa,Sur
+Cerro Colorado,Arequipa,Sur
+Sachaca,Arequipa,Sur
+Camaná,Arequipa,Sur
+Caravelí,Arequipa,Sur
+Aplao,Arequipa,Sur
+Chivay,Arequipa,Sur
+Chuquibamba,Arequipa,Sur
+Mollendo,Arequipa,Sur
+Cotahuasi,Arequipa,Sur
+Cusco,Cusco,Sur
+Wanchaq,Cusco,Sur
+Acomayo,Cusco,Sur
+Anta,Cusco,Sur
+Calca,Cusco,Sur
+Yanaoca,Cusco,Sur
+Sicuani,Cusco,Sur
+Santo Tomás,Cusco,Sur
+Espinar,Cusco,Sur
+Quillabamba,Cusco,Sur
+Paruro,Cusco,Sur
+Paucartambo,Cusco,Sur
+Urcos,Cusco,Sur
+Urubamba,Cusco,Sur
+Abancay,Apurímac,Sur
+Andahuaylas,Apurímac,Sur
+Antabamba,Apurímac,Sur
+Chalhuanca,Apurímac,Sur
+Tambobamba,Apurímac,Sur
+Chincheros,Apurímac,Sur
+Chuquibambilla,Apurímac,Sur
+Puno,Puno,Sur
+Juliaca,Puno,Sur
+Azángaro,Puno,Sur
+Macusani,Puno,Sur
+Juli,Puno,Sur
+Ilave,Puno,Sur
+Huancané,Puno,Sur
+Lampa,Puno,Sur
+Ayaviri,Puno,Sur
+Moho,Puno,Sur
+Putina,Puno,Sur
+Sandia,Puno,Sur
+Yunguyo,Puno,Sur
+Moquegua,Moquegua,Sur
+Omate,Moquegua,Sur
+Ilo,Moquegua,Sur
+Tacna,Tacna,Sur
+Candarave,Tacna,Sur
+Locumba,Tacna,Sur
+Tarata,Tacna,Sur
+Chachapoyas,Amazonas,Oriente
+Bagua,Amazonas,Oriente
+Jumbilla,Amazonas,Oriente
+Santa María de Nieva,Amazonas,Oriente
+Lamud,Amazonas,Oriente
+San Nicolás,Amazonas,Oriente
+Bagua Grande,Amazonas,Oriente
+Moyobamba,San Martín,Oriente
+Tarapoto,San Martín,Oriente
+Juanjuí,San Martín,Oriente
+Saposoa,San Martín,Oriente
+Rioja,San Martín,Oriente
+Lamas,San Martín,Oriente
+Tocache,San Martín,Oriente
+Picota,San Martín,Oriente
+Bellavista,San Martín,Oriente
+San José de Sisa,San Martín,Oriente
+Iquitos,Loreto,Oriente
+Yurimaguas,Loreto,Oriente
+San Lorenzo,Loreto,Oriente
+Nauta,Loreto,Oriente
+Caballococha,Loreto,Oriente
+Requena,Loreto,Oriente
+Contamana,Loreto,Oriente
+El Estrecho,Loreto,Oriente
+Pucallpa,Ucayali,Oriente
+Atalaya,Ucayali,Oriente
+Aguaytía,Ucayali,Oriente
+Puerto Esperanza,Ucayali,Oriente
+Puerto Maldonado,Madre de Dios,Oriente
+Salvación,Madre de Dios,Oriente
+Iñapari,Madre de Dios,Oriente
