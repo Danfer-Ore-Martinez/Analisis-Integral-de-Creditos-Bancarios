@@ -13,7 +13,7 @@ ADVERTENCIA:
 		- 'bronce.pagos'
 		
 
-PROPOSITO DEL SCRIPT:
+PROPOSTIO DEL SCRIPT:
 	1.- Crear las siguientes tablas para la capa Bronce:
 		- 'bronce.productos_crediticios'
 		- 'bronce.sucursales'
@@ -22,7 +22,7 @@ PROPOSITO DEL SCRIPT:
 		- 'bronce.prestamos'
 		- 'bronce.pagos'
 NOTA: 
-	Las fechas se han creado como VARCHAR(15), porque las columnas de fecha tienen formatos diferentes.
+	Las fechas se han creado como NVARCHAR(15), porque las columnas de fecha tienen formatos diferentes.
 */
 
 USE DWH_Creditos;
@@ -39,16 +39,16 @@ END
 GO 
 CREATE TABLE bronce.productos_crediticios (
 	producto_id INT,
-	nombre_producto VARCHAR(40),
-	tipo_credito VARCHAR(50),
+	nombre_producto NVARCHAR(40),
+	tipo_credito NVARCHAR(50),
 	tasa_nom_min DECIMAL(8,4),
 	tasa_nom_max DECIMAL(8,4), 
 	plazo_min_meses INT, 
 	plazo_max_meses INT, 
 	monto_minimo DECIMAL(10,2),
 	monto_maximo DECIMAL(10,2), 
-	requiere_garantia VARCHAR(15),
-	moneda VARCHAR(30)
+	requiere_garantia NVARCHAR(15),
+	moneda NVARCHAR(30)
 ); 
 
 IF OBJECT_ID('bronce.sucursales','U') IS NOT NULL 
@@ -58,15 +58,15 @@ END
 GO 
 CREATE TABLE bronce.sucursales (
 	sucursal_id INT,
-	codigo_sucursal VARCHAR(30),
-	nombre_sucursal VARCHAR(50),
-	tipo_sucursal VARCHAR(30),
-	ciudad VARCHAR(30),
-	departamento VARCHAR(30),
-	region VARCHAR(30),
-	zona VARCHAR(30),
-	fecha_apertura VARCHAR(15), 
-	estado_sucursal VARCHAR(30)
+	codigo_sucursal NVARCHAR(30),
+	nombre_sucursal NVARCHAR(50),
+	tipo_sucursal NVARCHAR(30),
+	ciudad NVARCHAR(30),
+	departamento NVARCHAR(30),
+	region NVARCHAR(30),
+	zona NVARCHAR(30),
+	fecha_apertura NVARCHAR(15), 
+	estado_sucursal NVARCHAR(30)
 ); 
 
 IF OBJECT_ID('bronce.clientes','U') IS NOT NULL 
@@ -76,31 +76,31 @@ END
 GO 
 CREATE TABLE bronce.clientes (
 	cliente_id INT,
-	tipo_documento VARCHAR(10),
-	numero_documento VARCHAR(20), 
-	nombres VARCHAR(50),
-	apellido_paterno VARCHAR(30),
-	apellido_materno VARCHAR(30),
-	fecha_nacimiento VARCHAR(15),
+	tipo_documento NVARCHAR(10),
+	numero_documento NVARCHAR(20), 
+	nombres NVARCHAR(50),
+	apellido_paterno NVARCHAR(30),
+	apellido_materno NVARCHAR(30),
+	fecha_nacimiento NVARCHAR(15),
 	edad INT,
-	genero VARCHAR(20),
-	estado_civil VARCHAR(30),
-	nivel_educacion VARCHAR(30),
-	ocupacion VARCHAR (50),
-	sector_economico VARCHAR(50),
-	ciudad_residencia VARCHAR(30),
-	departamento_residencia VARCHAR(30),
-	region_residencia VARCHAR(30),
+	genero NVARCHAR(20),
+	estado_civil NVARCHAR(30),
+	nivel_educacion NVARCHAR(30),
+	ocupacion NVARCHAR (50),
+	sector_economico NVARCHAR(50),
+	ciudad_residencia NVARCHAR(30),
+	departamento_residencia NVARCHAR(30),
+	region_residencia NVARCHAR(30),
 	ingresos_mensuales DECIMAL(10,2),
 	egresos_mensuales DECIMAL(10,2),
 	patrimonio_estimado DECIMAL(10,2),
 	score_crediticio INT,
-	segmento_cliente VARCHAR(30),
-	canal_captacion VARCHAR(30),
+	segmento_cliente NVARCHAR(30),
+	canal_captacion NVARCHAR(30),
 	antiguedad_cliente_meses INT,
-	fecha_registro VARCHAR(15),
+	fecha_registro NVARCHAR(15),
 	sucursal_id INT,
-	estado_cliente VARCHAR(30)
+	estado_cliente NVARCHAR(30)
 );
 
 
@@ -112,13 +112,13 @@ GO
 CREATE TABLE bronce.oficiales_credito (
 	oficial_id INT,
 	sucursal_id INT,
-	nombres VARCHAR(50),
-	apellido_paterno VARCHAR(30),
-	apellido_materno VARCHAR(30),
-	genero VARCHAR(20),
-	cargo VARCHAR(40),
-	fecha_ingreso VARCHAR(15),
-	estado VARCHAR(30),
+	nombres NVARCHAR(50),
+	apellido_paterno NVARCHAR(30),
+	apellido_materno NVARCHAR(30),
+	genero NVARCHAR(20),
+	cargo NVARCHAR(40),
+	fecha_ingreso NVARCHAR(15),
+	estado NVARCHAR(30),
 ); 
 
 IF OBJECT_ID('bronce.prestamos','U') IS NOT NULL 
@@ -132,30 +132,30 @@ CREATE TABLE bronce.prestamos (
 	sucursal_id INT, 
 	producto_id INT,
 	oficial_id INT, 
-	numero_contrato VARCHAR(30),
-	fecha_otorgamiento VARCHAR(15),
-	fecha_vencimiento VARCHAR(15),
+	numero_contrato NVARCHAR(30),
+	fecha_otorgamiento NVARCHAR(15),
+	fecha_vencimiento NVARCHAR(15),
 	monto_original DECIMAL(10,2),
 	saldo_capital_vigente DECIMAL(10,2),
 	tasa_interes_nominal_anual DECIMAL(8,4), 
 	tasa_interes_efectiva_anual DECIMAL(8,4),
 	plazo_meses INT, 
-	tipo_credito VARCHAR(30),
-	moneda VARCHAR(30),
-	frecuencia_pago VARCHAR(30),
+	tipo_credito NVARCHAR(30),
+	moneda NVARCHAR(30),
+	frecuencia_pago NVARCHAR(30),
 	cuota_programada DECIMAL(10,2),
 	numero_cuotas_total INT,
 	numero_cuotas_pagadas INT, 
 	numero_cuotas_pendientes INT, 
-	estado VARCHAR(30),
+	estado NVARCHAR(30),
 	dias_mora INT,
-	clasificacion_riesgo_sbs VARCHAR(30),
-	garantia_tipo VARCHAR(30),
+	clasificacion_riesgo_sbs NVARCHAR(30),
+	garantia_tipo NVARCHAR(30),
 	garantia_valor DECIMAL(10,2),
-	proposito_credito VARCHAR(50),
-	canal_desembolso VARCHAR(30),
-	fecha_primer_pago_programado VARCHAR(15),
-	fecha_ultimo_pago_real VARCHAR(15) 
+	proposito_credito NVARCHAR(50),
+	canal_desembolso NVARCHAR(30),
+	fecha_primer_pago_programado NVARCHAR(15),
+	fecha_ultimo_pago_real NVARCHAR(15) 
 );
 
 IF OBJECT_ID('bronce.pagos','U') IS NOT NULL 
@@ -167,8 +167,8 @@ CREATE TABLE bronce.pagos (
 	pago_id INT,
 	prestamo_id INT,
 	numero_cuota INT,
-	fecha_vencimiento_cuota VARCHAR(15),
-	fecha_pago VARCHAR(15),
+	fecha_vencimiento_cuota NVARCHAR(15),
+	fecha_pago NVARCHAR(15),
 	monto_cuota_programada DECIMAL(10,2),
 	monto_capital_programado DECIMAL(10,2),
 	monto_interes_programado DECIMAL(10,2),
@@ -178,7 +178,7 @@ CREATE TABLE bronce.pagos (
 	monto_mora_pagado DECIMAL(10,2),
 	saldo_capital_despues_pago DECIMAL(10,2),
 	dias_retraso INT,
-	estado_pago VARCHAR(30),
-	canal_pago VARCHAR(30),
-	referencia_pago VARCHAR(30)
+	estado_pago NVARCHAR(30),
+	canal_pago NVARCHAR(30),
+	referencia_pago NVARCHAR(30)
 ); 
