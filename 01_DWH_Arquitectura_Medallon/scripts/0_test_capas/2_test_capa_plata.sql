@@ -1,7 +1,7 @@
 /*
-=========================================
-VERIFICACION CANTIDAD DE FILAS Y COLUMNAS
-=========================================
+====================================================
+VERIFICACION CANTIDAD DE FILAS Y COLUMNAS CAPA PLATA
+====================================================
 
 PROPOSITO DEL SCRIPT:
 	1. Verificar que la cantidad de filas de las tablas sean iguales a la cantidad de filas de los archivos. 
