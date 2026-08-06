@@ -13,7 +13,7 @@ ADVERTENCIA:
 		- 'bronce.pagos'
 		
 
-PROPOSTIO DEL SCRIPT:
+PROPOSITO DEL SCRIPT:
 	1.- Crear las siguientes tablas para la capa Bronce:
 		- 'bronce.productos_crediticios'
 		- 'bronce.sucursales'
