@@ -44,8 +44,8 @@ CREATE VIEW oro.dim_productos_crediticios AS (
 		moneda,
 		-- De BIT, a un tipo mas claro y entendible para reporte o analisis 
 		CASE 
-			WHEN requiere_garantia = 1 THEN 'Activo'
-			WHEN requiere_garantia = 0 THEN 'Inactivo'
+			WHEN requiere_garantia = 1 THEN 'Si'
+			WHEN requiere_garantia = 0 THEN 'No'
 			ELSE 'n/a'
 		END AS requiere_garantia,
 		plazo_min_meses,
