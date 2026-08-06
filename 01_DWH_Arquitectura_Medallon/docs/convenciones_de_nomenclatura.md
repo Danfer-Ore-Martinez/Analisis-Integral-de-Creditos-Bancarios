@@ -43,14 +43,14 @@ Este documento describe las convenciones de nomenclatura utilizadas para schemas
   - `<entidad>`: Describe el nombre de la tabla, siguiendo la logica y estructura del negocio (ejemplo:, `clientes`, `pretamos`, `pagos`).  
   - ejemplos:
     - `dim_clientes` → Tabla dimension de la información del cliente.  
-    - `fact_pagos` → Tabla fact que almacena la información de las ventas.  
+    - `fact_pagos` → Tabla fact que almacena la información de los pagos  
 
 #### **Diccionario de pre-fijos**
 
 | Pre-fijo    | Significado                      | Ejemplo(s)                                |
 |-------------|----------------------------------|-------------------------------------------|
 | `dim_`      | Tabla de Dimension               | `dim_clientes`, `dim_productos`           |
-| `fact_`     | Tabla de Fact                    | `fact_ventas`                             |
+| `fact_`     | Tabla de Fact                    | `fact_pagos`                              |
 
 ## **Convenciones de Nomenclatura para Columnas**
 
