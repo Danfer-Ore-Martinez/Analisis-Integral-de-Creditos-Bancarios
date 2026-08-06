@@ -42,7 +42,7 @@ BEGIN
 		TRUNCATE TABLE bronce.productos_crediticios; 
 		PRINT '>>> Cargando los datos en la tabla  "bronce.productos_crediticios"';
 		BULK INSERT bronce.productos_crediticios 
-		FROM 'D:\Data_Analytics\PROYECTOS\Analisis_Integral_de_Cartera_de_Creditos_Bancarios\0_Data_Sets\productos_crediticios.csv'
+		FROM 'D:\Data_Analytics\PROYECTOS\Analisis_Integral_de_Cartera_de_Creditos_Bancarios\00_datasets\productos_crediticios.csv'
 		WITH(
 			FIRSTROW = 2,
 			FIELDTERMINATOR = ',',
@@ -62,7 +62,7 @@ BEGIN
 		TRUNCATE TABLE bronce.sucursales; 
 		PRINT '>>> Cargando los datos en la tabla  "bronce.sucursales"';
 		BULK INSERT bronce.sucursales 
-		FROM 'D:\Data_Analytics\PROYECTOS\Analisis_Integral_de_Cartera_de_Creditos_Bancarios\0_Data_Sets\sucursales.csv'
+		FROM 'D:\Data_Analytics\PROYECTOS\Analisis_Integral_de_Cartera_de_Creditos_Bancarios\00_datasets\sucursales.csv'
 		WITH(
 			FIRSTROW = 2,
 			FIELDTERMINATOR = ',',
@@ -82,7 +82,7 @@ BEGIN
 		TRUNCATE TABLE bronce.clientes; 
 		PRINT '>>> Cargando los datos en la tabla  "bronce.clientes"';
 		BULK INSERT bronce.clientes 
-		FROM 'D:\Data_Analytics\PROYECTOS\Analisis_Integral_de_Cartera_de_Creditos_Bancarios\0_Data_Sets\clientes.csv'
+		FROM 'D:\Data_Analytics\PROYECTOS\Analisis_Integral_de_Cartera_de_Creditos_Bancarios\00_datasets\clientes.csv'
 		WITH(
 			FIRSTROW = 2,
 			FIELDTERMINATOR = ',',
@@ -102,7 +102,7 @@ BEGIN
 		TRUNCATE TABLE bronce.prestamos; 
 		PRINT '>>> Cargando los datos en la tabla  "bronce.prestamos"';
 		BULK INSERT bronce.prestamos 
-		FROM 'D:\Data_Analytics\PROYECTOS\Analisis_Integral_de_Cartera_de_Creditos_Bancarios\0_Data_Sets\prestamos.csv'
+		FROM 'D:\Data_Analytics\PROYECTOS\Analisis_Integral_de_Cartera_de_Creditos_Bancarios\00_datasets\prestamos.csv'
 		WITH(
 			FIRSTROW = 2,
 			FIELDTERMINATOR = ',',
@@ -122,7 +122,7 @@ BEGIN
 		TRUNCATE TABLE bronce.oficiales_credito; 
 		PRINT '>>> Cargando los datos en la tabla  "bronce.oficiales_credito"';
 		BULK INSERT bronce.oficiales_credito 
-		FROM 'D:\Data_Analytics\PROYECTOS\Analisis_Integral_de_Cartera_de_Creditos_Bancarios\0_Data_Sets\oficiales_credito.csv'
+		FROM 'D:\Data_Analytics\PROYECTOS\Analisis_Integral_de_Cartera_de_Creditos_Bancarios\00_datasets\oficiales_credito.csv'
 		WITH(
 			FIRSTROW = 2,
 			FIELDTERMINATOR = ',',
@@ -142,7 +142,7 @@ BEGIN
 		TRUNCATE TABLE bronce.pagos; 
 		PRINT '>>> Cargando los datos en la tabla  "bronce.pagos"';
 		BULK INSERT bronce.pagos 
-		FROM 'D:\Data_Analytics\PROYECTOS\Analisis_Integral_de_Cartera_de_Creditos_Bancarios\0_Data_Sets\pagos.csv'
+		FROM 'D:\Data_Analytics\PROYECTOS\Analisis_Integral_de_Cartera_de_Creditos_Bancarios\00_datasets\pagos.csv'
 		WITH(
 			FIRSTROW = 2,
 			FIELDTERMINATOR = ',',
