@@ -159,6 +159,6 @@ de reportes y análisis de datos. Esta dividida en dos tipo de tablas **Tablas d
 | monto_interes_programado     | DECIMAL(10,2) | Monto interés programado (monto programado destinado a pagar intereses).                      |
 | monto_pagado_total           | DECIMAL(10,2) | Monto real pagado (capital + interés + mora).                                                 |
 | monto_capital_pagado         | DECIMAL(10,2) | Monto real pagado destinado a reducir la deuda.                                               |
-| monto_interes_pagado         | DECIMAL(10,2) | Monto d real destinado a pagar interés.                                                       |
+| monto_interes_pagado         | DECIMAL(10,2) | Monto real destinado a pagar interés.                                                       |
 | monto_mora_pagado            | DECIMAL(10,2) | Monto real destinado a pagar la mora, generada por retrasarse en los pagos.                   |
 | saldo_capital_despues_pago   | DECIMAL(10,2) | Saldo capital restante, luego del pago.                                                        |  
