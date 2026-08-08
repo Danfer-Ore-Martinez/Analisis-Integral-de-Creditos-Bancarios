@@ -12,7 +12,7 @@ Para el desarrolo y creación de este DWH se utilizará la arquitectura de medal
 
 ## Modelo de Datos 
 Se parte de una relación tipo **Header/Line Fact Tables** (Prestamos / Pagos que son detalles de prestamos, similar a Factura / Detalles Factura), la cual se transforma en un esquema de galaxia, esta decisión se justifica, porque: 
-- Se Busca que la capa oro sea un sistema OLAP, es decir priorizar la velocidad por sobre la escritura.
+- Se Busca que la capa oro sea un sistema OLAP, es decir priorizar la velocidad de lectura por sobre la escritura.
 - La granularidad de las tablas pagos y prestamos es diferente, por ende, no siempre vamos a necesitar información de prestamos, sin embargo con una relación tipo **Header/Line Fact Tables**, siempre estaríamos obligados a pasar por prestamos, ralentizando muchas consultas de manera innecesaria.
 - Se sigue las recomendaciones de [KIMBALL](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/header-line-fact-table/) para el modelado de datos de **Header/Line Fact Tables**, en donde se recomienda que todas las claves foráneas del encabezado tienen que incluirse en la tabla hechos de línea.  
 ![Modelo de Datos](docs/Almacen_de_Datos_Creditos_Bancarios.png)
