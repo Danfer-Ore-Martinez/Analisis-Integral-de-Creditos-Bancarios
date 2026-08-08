@@ -7,7 +7,7 @@ Para el desarrolo y creación de este DWH se utilizará la arquitectura de medal
 
 1. **Capa Bronce**: Almacena la información cruda sin procesamiento o limpieza.
 2. **Capa Plata**: Se implementan técnicas y estrategias para la lipieza de datos, estandarización de la información y normalización de procesos. 
-3. **Capa Oro**: Se tiene la información lista para el negocio, se realizan reportes, análisis e interpretaciones de información (se utiliza esquema de estrella).  
+3. **Capa Oro**: Se tiene la información lista para el negocio, se realizan reportes, análisis e interpretaciones de información (se utiliza esquema de galaxia).  
 ---
 
 ## Modelo de Datos 
