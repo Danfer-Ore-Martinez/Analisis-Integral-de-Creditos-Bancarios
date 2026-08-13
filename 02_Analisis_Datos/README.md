@@ -7,11 +7,11 @@ Se emplea una gran cantidad de scripts en python utilizando Jupyter Notebook, pa
 2. Análisis Volumen, Características y Calidad de Prestamos: Se implementas gráficos de barras, de línea e histogramas, para entender distribuciones, volúmenes, calidad y características de los prestamos. 
 3. Análisis de Volumen y Calidad de Pagos: Se implementas gráficos de barras, de línea e histogramas, para entender distribuciones, volúmenes y calidad de los pagos.
 ![Estructura del Proyecto](docs/Ruta_Proyecto_Analisis.png)
-
 ---
 ## Análisis e interpretación de gráficos  
 ---
 ### 1. EDA Clientes 
+![Distribución Edades Clientes](docs/clientes/1_1_¿Cuál-es-la-distribución-de-clientes-por-rango-de-edades.png)
 
 ---
 ### 2. Análisis Volumen, Características y Calidad de Prestamos
