@@ -6,7 +6,6 @@ Se emplea una gran cantidad de scripts en python utilizando Jupyter Notebook, pa
 1. EDA Clientes: Se implementas gráficos de barras, histogramas y pie, para entender distribuciones, comportamientos y características de los clientes.
 2. Análisis Volumen, Características y Calidad de Prestamos: Se implementas gráficos de barras, de línea e histogramas, para entender distribuciones, volúmenes, calidad y características de los prestamos. 
 3. Análisis de Volumen y Calidad de Pagos: Se implementas gráficos de barras, de línea e histogramas, para entender distribuciones, volúmenes y calidad de los pagos.
-4. 
 ![Estructura del Proyecto](docs/Ruta_Proyecto_Analisis.png)
 
 ---
