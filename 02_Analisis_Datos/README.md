@@ -3,7 +3,7 @@ Proyecto de análisis de datos
 
 1. [Ruta del Proyecto](#Ruta-del-Proyecto)
 2. [Análisis e interpretación de gráficos](#Análisis-e-Interpretación-de-Gráficos )
-   - [EDA Clientes ](#EDA-Clientes)
+   - [EDA Clientes](#EDA-Clientes)
    - [Análisis Volumen, Características y Calidad de Prestamos](#Análisis-Volumen,-Características-y-Calidad-de-Prestamos)
    - [Análisis de Volumen y Calidad de Pagos](#Análisis-de-Volumen-y-Calidad-de-Pagos)
 3. [Sobre Mi](#Sobre-Mi)
@@ -18,7 +18,7 @@ Se emplea una gran cantidad de scripts en python utilizando Jupyter Notebook, pa
 ---
 ## Análisis e Interpretación de Gráficos  
 ---
-### 1. EDA Clientes 
+### 1. EDA Clientes
 El propósito de esta etapa es identificar las principales características de los clientes.
 
 #### 1.1. Edades 
