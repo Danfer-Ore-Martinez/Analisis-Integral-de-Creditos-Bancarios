@@ -4,7 +4,7 @@
 1. [Ruta del Proyecto](#Ruta-del-Proyecto)  
 2. [Análisis e interpretación de gráficos](#Análisis-e-Interpretación-de-Gráficos )  
    - [EDA Clientes](#1-EDA-Clientes)  
-   - [Análisis Volumen, Características y Calidad de Prestamos](#2-Análisis-Volumen,-Características-y-Calidad-de-Prestamos)  
+   - [Análisis Volumen, Características y Calidad de Prestamos](#2-an%C3%A1lisis-volumen-caracter%C3%ADsticas-y-calidad-de-prestamos)  
    - [Análisis de Volumen y Calidad de Pagos](#3-Análisis-de-Volumen-y-Calidad-de-Pagos)  
 3. [Sobre Mi](#Sobre-Mi)  
 ---
