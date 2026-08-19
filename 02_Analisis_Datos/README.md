@@ -11,9 +11,10 @@
 ## Ruta del Proyecto 
 Se emplea una gran cantidad de scripts en python utilizando Jupyter Notebook, para una mayor organización, estructuración y visualización de los gráficos.  
 
-1. EDA Clientes: Se implementas gráficos de barras, histogramas y pie, para entender distribuciones, comportamientos y características de los clientes.
-2. Análisis Volumen, Características y Calidad de Prestamos: Se implementas gráficos de barras, de línea e histogramas, para entender distribuciones, volúmenes, calidad y características de los prestamos. 
-3. Análisis de Volumen y Calidad de Pagos: Se implementas gráficos de barras, de línea e histogramas, para entender distribuciones, volúmenes y calidad de los pagos.
+0. **Planificación**: Toda la etapa de planificación se desarrollo utilizando herramientas de diseño y gráficos como **Draw.io** y herramientas de planificación como [Notion](https://app.notion.com/p/An-lisis-de-Datos-3b8709d2d229805e999fc34e49a2a583?source=copy_link)
+1. **EDA Clientes**: Se implementas gráficos de barras, histogramas y pie, para entender distribuciones, comportamientos y características de los clientes.
+2. **Análisis Volumen, Características y Calidad de Prestamos**: Se implementas gráficos de barras, de línea e histogramas, para entender distribuciones, volúmenes, calidad y características de los prestamos. 
+3. **Análisis de Volumen y Calidad de Pagos**: Se implementas gráficos de barras, de línea e histogramas, para entender distribuciones, volúmenes y calidad de los pagos.
 ![Estructura del Proyecto](docs/Ruta_Proyecto_Analisis.png)
 ---
 ## Análisis e Interpretación de Gráficos  
