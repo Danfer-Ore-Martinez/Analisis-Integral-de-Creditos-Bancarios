@@ -1,12 +1,12 @@
 # Proyecto de análisis de datos
 ## **Tabla de Contenido**
 
-1. [Ruta del Proyecto](#Ruta-del-Proyecto)
-2. [Análisis e interpretación de gráficos](#Análisis-e-Interpretación-de-Gráficos )
-   - [EDA Clientes](#1-EDA-Clientes)
-   - [Análisis Volumen, Características y Calidad de Prestamos](#2-Análisis-Volumen,-Características-y-Calidad-de-Prestamos)
-   - [Análisis de Volumen y Calidad de Pagos](#3-Análisis-de-Volumen-y-Calidad-de-Pagos)
-3. [Sobre Mi](#Sobre-Mi)
+1. [Ruta del Proyecto](#Ruta-del-Proyecto)  
+2. [Análisis e interpretación de gráficos](#Análisis-e-Interpretación-de-Gráficos )  
+   - [EDA Clientes](#1-EDA-Clientes)  
+   - [Análisis Volumen, Características y Calidad de Prestamos](#2-Análisis-Volumen,-Características-y-Calidad-de-Prestamos)  
+   - [Análisis de Volumen y Calidad de Pagos](#3-Análisis-de-Volumen-y-Calidad-de-Pagos)  
+3. [Sobre Mi](#Sobre-Mi)  
 ---
 ## Ruta del Proyecto 
 Se emplea una gran cantidad de scripts en python utilizando Jupyter Notebook, para una mayor organización, estructuración y visualización de los gráficos.  
