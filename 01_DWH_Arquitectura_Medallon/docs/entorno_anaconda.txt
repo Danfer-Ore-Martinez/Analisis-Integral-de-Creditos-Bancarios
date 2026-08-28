@@ -1,6 +1,6 @@
 conda create -n analisis_creditos_bancarios python=3.10
 y
-conda actívate analisis_creditos_bancarios
+conda activate analisis_creditos_bancarios
 pip install pandas 
 pip install pyarrow
 pip install matplotlibs
