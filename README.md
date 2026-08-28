@@ -41,4 +41,4 @@ Para alcanzar los objetivos planteados, se emplean diferentes tecnologías, cada
 * **Power BI**: Un herramienta de visualización de información, permite transformar datos en información relevante para la toma de decisiones empresariales.  
  
 ## Sobre Mi 
-Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, me quiero especializar en análisis de datos, este proyecto busca demostrar mi manejo en diferentes tecnología como SQL Server, Power Bi y Python. 
+Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, este proyecto busca demostrar mi capacidad para poder planificar, integrar e implementar diversas tecnologías como SQL Server, Power Bi y Python.
