@@ -31,5 +31,5 @@ Es una vista centrada en la información sobre los pagos e ingresos a lo largo d
 Este Dashboard muestra cómo Power BI puede transformar información cruda en un reporte completo, lleno de información, este reporte ayuda en la toma de decisiones de gerentes o jefes de área. Se utilizan filtros para poder reducir y segmentar la información con el objetivo de un mejor entendimiento.
 
 ## Sobre Mi 
-Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy un Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, me quiero especializar en análisis de datos, esta tercera parte del proyecto de `Analisis-Integral-de-Creditos`, esta centrada en la creación de un reporte capaz de mostrar información relevantes sobre los préstamos, ingresos y pagos, realizados durante le periodo 2020-2025. 
+Buenos días, buenas tardes o buenas noches, dependiendo de cuando leas esto, soy un Estudiante de Ing. Sistemas mi nombre es Danfer Marcelo Ore, esta tercera parte del proyecto de `Analisis-Integral-de-Creditos`, esta centrada en la creación de un reporte capaz de mostrar información relevantes sobre los préstamos, ingresos y pagos, realizados durante le periodo 2020-2025. 
 
