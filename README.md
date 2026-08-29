@@ -34,6 +34,13 @@ Se desarrolla un reporte interactivo en Power BI para visualizar indicadores cla
 * **Power BI:** Creación de visualizaciones interactivas mediante gráficos y filtros, utilizando Power Query, DAX, métricas y parámetros.
 * **Herramientas de Planificación:** Planificación y seguimiento de cada etapa del proyecto mediante herramientas como Draw.io y Notion, garantizando una ejecución organizada y alineada con los objetivos.
 
+## Hallazgos: 
+- La tendencia anual de los préstamos otorgados va a la baja al igual que los montos préstados desde el año 2020-2025.
+- Se debe tener cuidado, con la interpretación de los ingresos de la empresa, en general los ingresos están al alza, sin embargo, esto se debe a los ingresos generados por pagos fruto de préstamos anteriores, las consecuencias reales de la disminución de préstamos otorgados, se verán cuando los préstamos pasados finalicen. 
+- La cartera de créditos es saludable teniendo más del 90% de préstamos con una categoría de riesgo SBS Normal. 
+- El producto crediticio que más ingresos genera son los Créditos Hipotecarios Vivienda, a pesar de ser menos del 5% de los préstamos totales representa el 40% de los ingresos totales. 
+- Los métodos de pagos digitales (Movil o Web), representan el 40% del total de pagos realizados, es decir tienen una importancia significativa, sin embargo, los medios tradicionales todavía persisten.
+- Se debe tener cuidado con la tendencia de la TEA, de los préstamos otorgados, se presenta una baja desde el año 2021 en 1.7%.
 ## Conclusiones
 Para alcanzar los objetivos planteados, se emplean diferentes tecnologías, cada una con una función específica dentro del flujo de trabajo. 
 * **SQL Server:** Un centro de datos donde podemos tener la información original como respaldo (Capa Bronce), información limpia y tratada (Capa Plata) e información lista para el negocio, reportes o machine learning (Capa Oro).
